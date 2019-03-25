@@ -1,0 +1,40 @@
+ET4345 Project Report
+Group:
+Conall McAteer - 18173586
+Mateusz Tyrkiel - 17204097
+James Duffy – 17206286
+Goal: Develop a dual-boot windows/Ubuntu build for the machines in the lab.
+
+To start off with this project, we first identified all the necessary aspects of this project. 
+
+WINDOWS:
+Beginning your mission.
+1.	Install windows on a bootable USB or disk.
+2.	Insert the USB stick to the designated computer.
+3.	When turning on the computer, mash F8 or F12 so as to engage BIOS mode. 
+4.	A Windows install menu will pop up on screen.
+5.	Run through windows installation- language etc and press install now
+6.	Accept the licence 
+7.	Go to custom - Choose partition to install windows on
+8.	Press next
+9.	Make sure your PC is in UEFI mode
+10.	Type a username and computer name
+11.	Press next on password 
+12.	Enter product key 
+13.	Set time 
+14.	Installed drivers
+15.	Navigate to disk management 
+16.	Shrink volume of C drive
+17.	Create at least 20gb of space
+18.	
+
+UBUNTU:
+1.	
+
+
+Beginning your mission.
+Basic Start up: 1
+1.1.	Install Windows on a bootable USB or disk. 
+1.2.	 
+
+
